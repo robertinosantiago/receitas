@@ -3,6 +3,7 @@ Aqui estão reunidas algumas receitas culinárias testadas e aprovadas
 
 ## Bolos
 
+- [Bolo de chocolate](bolos/bolo-chocolate.md)
 - [Bolo de laranja](bolos/bolo-laranja.md)
 
 ## Frango
